@@ -4,7 +4,7 @@ const generationCounterField = document.getElementById('generation-count');
 const ctx = canvas.getContext('2d');
 
 
-const cellSize = 1
+const cellSize = 3
 const fieldWidth = 300
 const fieldHeight = 300
 
